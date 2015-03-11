@@ -430,6 +430,7 @@ body {
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
+	color: black;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
